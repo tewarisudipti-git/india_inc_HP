@@ -1,0 +1,15 @@
+{
+  "name": "Himachal Pradesh",
+  "short_name": "Himachal",
+  "description": "Himachal Pradesh — A Land Beyond the Mountains",
+  "start_url": "./",
+  "background_color": "#111111",
+  "theme_color": "#18181B",
+  "icons": [
+    {
+      "src": "himachal-logo.png",
+      "sizes": "383x272",
+      "type": "image/png"
+    }
+  ]
+}
